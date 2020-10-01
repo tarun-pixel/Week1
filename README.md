@@ -1,4 +1,4 @@
-EE PMP 590 Spring 2014 - Week1
+EE PMP 590 Spring 2014 - Week1 step forword
 =====
 
 This repository contains sample code, lectures slides, and homework requirements for Week 1.
